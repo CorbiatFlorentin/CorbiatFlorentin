@@ -26,3 +26,14 @@ Je suis un fou passionné de code et de features en tout genre alors n'hésitez 
 [Le Monde de Hubeau](https://github.com/CorbiatFlorentin/Le-Monde-de-Hubeau)
 
 [Pimp my tag](https://github.com/CorbiatFlorentin/Pimp-my-tag)
+
+
+<br>
+<br>
+
+<details>
+  <summary><h3> 👨‍💻 My coding Journey</h3></summary>
+  J'ai commencé à coder de maniére trés ponctuelle et sans aucun but jusqu'à ce que je décide d'en faire mon métier. Originalement, je n'étais pas à l'aise du tout et les IDE en général m'effrayez...Puis un jour, poussez par mon envie d'en découdre, je me suis mis à coder de simples lignes pour faire apparaitre un Hello world ☀️.Et de fil en aiguille, j'ai commencé à vouloir apprendre plus, puis coder de façon plus importante pour commencer à faire du concret. Je me suis mis à rechercher l'endroit qui pouurait m'offir ce cadre : une école de reconversion professionnelle.
+  <br>
+  Depuis mon arrivée, mes nuits sont de plus en plus courtes au fur et à mesures que j'avance dans ma progression(actuellment j'écrit ces lignes avec mon chat 🐈 à minuit et demi!). Pour une seconde fois dans ma vie, j'ai une passion qui pourrait me maintenir en éveil constant. Et c'est pour cela que j'adore coder et que peux être un jour, j'aurais la chance de travailler avec vous.❤️
+</details>
