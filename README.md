@@ -27,6 +27,10 @@ Je suis un fou passionné de code et de features en tout genre alors n'hésitez 
 
 [Pimp my tag](https://github.com/CorbiatFlorentin/Pimp-my-tag)
 
+[Exercice Kata Ada](https://github.com/CorbiatFlorentin/ExerciceKataAda)
+Correction d'exercices pour Kata en JS et en TS .
+Exercices correction for Kata practice JS and TS languages.
+
 
 <br>
 <br>
